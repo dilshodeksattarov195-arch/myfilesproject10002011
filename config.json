@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvarse",
+        "uuid": 11114797,
+        "checksum": "yplghp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
